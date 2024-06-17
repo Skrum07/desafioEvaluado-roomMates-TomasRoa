@@ -1,0 +1,21 @@
+{
+  "name": "desafioevaluado-roommates-tomasroa",
+  "version": "1.0.0",
+  "description": "Banco Solar",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+  }, 
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13",
+    "uuid": "^10.0.0"
+  }
+}
