@@ -1,9 +1,10 @@
 import express from "express";
+import { home, addRoomMate } from "../controllers/userController.js";
 const router = express.Router();
 
-router.get("/", (req, res) => {
-    res.send("Hello World!");
-});
+router.get("/", home);
+
+router.post("/roommate", addRoomMate);
 
 router.get('*', (req, res) => {
     res.status(404).send("Page Not Found");
