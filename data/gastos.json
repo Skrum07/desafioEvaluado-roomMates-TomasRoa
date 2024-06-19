@@ -1,6 +1,28 @@
 {
-    "gastos":[
-        
+    "gastos": [
+        {
+            "id": "b6e9f820",
+            "roommate": "Cameron Watson",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "6da12fda",
+            "roommate": "Cameron Watson",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "d69aec4d",
+            "roommate": "Tristan Olsen",
+            "descripcion": "Internet",
+            "monto": 300
+        },
+        {
+            "id": "ce17c988",
+            "roommate": "Anni Makinen",
+            "descripcion": "Parking",
+            "monto": 800
+        }
     ]
 }
-   
