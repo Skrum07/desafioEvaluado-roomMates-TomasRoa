@@ -8,4 +8,4 @@ router.post('/roommate', addRoommate)
 
 router.get('/roommates', getRoommates)  
 
-export default router
+export default router 

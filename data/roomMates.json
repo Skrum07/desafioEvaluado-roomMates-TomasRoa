@@ -1,1 +1,20 @@
-{"roommates":[{"id":"ed5045a8","nombre":"Cameron Watson","email":"cameron.watson@example.com","debe":0,"recibe":0,"total":0}]}
+{
+    "roommates": [
+        {
+            "id": "ed5045a8",
+            "nombre": "Cameron Watson",
+            "email": "cameron.watson@example.com",
+            "debe": 0,
+            "recibe": 0,
+            "total": 0
+        },
+        {
+            "id": "c47d0c3f",
+            "nombre": "Anni Makinen",
+            "email": "anni.makinen@example.com",
+            "debe": 0,
+            "recibe": 0,
+            "total": 0
+        }
+    ]
+}
