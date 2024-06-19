@@ -1,26 +1,23 @@
 
 # Titulo del proyecto
 
-Banco Solar
+App Room Mates
 
 ## Descripción del proyecto
 
-Se busco desarrollar un sistema de transferencias, realizado  con un servidor con Node, se utiliza
-PostgreSQL para la gestión y persistencia de datos, y se simula un sistema de
-transferencias.
-El sistema permite registrar nuevos usuarios con un balance inicial y
-realizar transferencias de saldos entre ellos.
+Se busca crear un servidor con Node que sirva una interfaz HTML, cuya temática está basada en el registro
+de gastos entre roommates. 
 
 
 ## Capturas de Pantalla del Proyecto
 
-![Home](./assets/img/Captura%20de%20pantalla%202024-06-13%20a%20la(s)%206.33.09 p. m..png)
+![Home](./assets/img/Captura%20de%20pantalla%202024-06-19%20a%20la(s)%205.52.33 p. m..png)
 
 Vista de una de las consultas solicitadas
 
 ## Prerrequisitos o Dependencias
 
-Se necesita las dependencias express, dotenv y pg.
+Se necesita las dependencias axios, dotenv, express, nodemailer, uuid
 
 ## Instalación del Proyecto
 
