@@ -5,7 +5,7 @@
   export const addGasto = async (req, res) => {
     try {
       const id = uuidv4().slice(0, 8);
-      // const { roommate, descripcion, monto } = req.body;
+      const { roommate, descripcion, monto } = req.body;
       const newGasto = { id, roommate, descripcion, monto };
       const results = await addGastosQuery(newGasto);
       sendEmail(monto, descripcion, roommate)

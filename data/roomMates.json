@@ -1,1 +1,28 @@
-{"roommates":[{"id":"ed5045a8","nombre":"Cameron Watson","email":"cameron.watson@example.com","debe":-366.6666666666667,"recibe":20000,"total":20366.666666666668},{"id":"c47d0c3f","nombre":"Anni Makinen","email":"anni.makinen@example.com","debe":-10100,"recibe":533.3333333333334,"total":10633.333333333334},{"id":"82238efd","nombre":"Tristan Olsen","email":"tristan.olsen@example.com","debe":-10266.666666666666,"recibe":200,"total":10466.666666666666}]}
+{
+    "roommates": [
+        {
+            "id": "ed5045a8",
+            "nombre": "Cameron Watson",
+            "email": "cameron.watson@example.com",
+            "debe": -366.6666666666667,
+            "recibe": 20000,
+            "total": 20366.666666666668
+        },
+        {
+            "id": "c47d0c3f",
+            "nombre": "Anni Makinen",
+            "email": "anni.makinen@example.com",
+            "debe": -10100,
+            "recibe": 533.3333333333334,
+            "total": 10633.333333333334
+        },
+        {
+            "id": "82238efd",
+            "nombre": "Tristan Olsen",
+            "email": "tristan.olsen@example.com",
+            "debe": -10266.666666666666,
+            "recibe": 200,
+            "total": 10466.666666666666
+        }
+    ]
+}
