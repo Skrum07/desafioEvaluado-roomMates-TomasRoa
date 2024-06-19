@@ -11,7 +11,7 @@ de gastos entre roommates.
 
 ## Capturas de Pantalla del Proyecto
 
-![Home](./assets/img/Captura%20de%20pantalla%202024-06-19%20a%20la(s)%205.52.33 p. m..png)
+![Home](./assets/img/pantallaIni.png)
 
 Vista de una de las consultas solicitadas
 
